@@ -8,7 +8,7 @@
 
 
 
-<a href="[https://twitter.com/abhisheknaiidu](https://twitter.com/ELIANXD55)">
+<a href="https://twitter.com/ELIANXD55">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/joan-elian-villamarin-urrutia-a4a7191b7/">
