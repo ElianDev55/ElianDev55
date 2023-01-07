@@ -42,9 +42,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   Visitor count
 </h2>
  
-<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+<img src="https://profile-counter.glitch.me/ELIANXD55/count.svg" />
 <a href="https://github.com/ELIANXD55/github-readme-stats">
-<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELIANXD55&theme=tokyonight" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ELIANXD55&theme=tokyonight" alt="muskanrani" />
 <br/>
 
