@@ -1,4 +1,4 @@
-[![banner-para-linkedin-experto-en-marketing-digital-profesional-negro-y-azul-1.png](https://i.postimg.cc/VsttXZpV/banner-para-linkedin-experto-en-marketing-digital-profesional-negro-y-azul-1.png)](https://postimg.cc/G9c9CKcF)
+[![banner-para-linkedin-experto-en-marketing-digital-profesional-negro-y-azul-2.png](https://i.postimg.cc/htn4NpCh/banner-para-linkedin-experto-en-marketing-digital-profesional-negro-y-azul-2.png)](https://postimg.cc/N5NwH7vw)
 
 
 
