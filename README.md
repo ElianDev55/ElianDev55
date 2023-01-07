@@ -1,5 +1,4 @@
-### HELLO THERE, I´M ELIAN 👋😄⌨
-![JOAN ELIAN](https://user-images.githubusercontent.com/93440397/176716888-de977c24-5828-46e5-a26f-0c6785386494.gif)
+[![banner-para-linkedin-experto-en-marketing-digital-profesional-negro-y-azul-1.png](https://i.postimg.cc/VsttXZpV/banner-para-linkedin-experto-en-marketing-digital-profesional-negro-y-azul-1.png)](https://postimg.cc/G9c9CKcF)
 
 
 
@@ -22,18 +21,29 @@ hi, i'm [Joan Elian](https://abhishknads.me/), I'm going to be a programmer full
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
+
 <h2 align="center">
   Here are some technologies I use at work:
 </h2>
 <p align="center">
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> &nbsp;&nbsp;
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> &nbsp;&nbsp;
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> &nbsp;&nbsp;
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> &nbsp;&nbsp;
+<img height="70" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png"> 
+<img height="70" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png">
+<img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
+<img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png">
+<img height="70" src="https://midu.dev/images/tags/node.png">
+<img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+<img height="70" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
 </p>
 <br/>
 </p>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELIANXD55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">
+  Visitor count
+</h2>
+ 
+<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
+<br/>
 
