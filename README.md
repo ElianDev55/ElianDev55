@@ -10,6 +10,9 @@
 <a href="https://twitter.com/ELIANXD55">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://torre.co/s/z58ffmW15n">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://res.cloudinary.com/torre-technologies-co/image/upload/v1621443046/origin/bio/organizations/f7t0uvgrihgdrqh6ee9w.png" />
+</a>
 <a href="https://www.linkedin.com/in/joan-elian-villamarin-urrutia-a4a7191b7/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
