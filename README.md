@@ -41,7 +41,7 @@
   
 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElianDev55&langs_count=6&theme=tokyonight)]
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElianDev55&langs_count=6&theme=tokyonight)
   
 </div>
 
