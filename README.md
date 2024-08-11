@@ -18,24 +18,16 @@
         <a href="#">
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" />
     </a>
-          <a href="#">
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux" />
-            </a>
             <a href="#">
   <img height="50" src="https://res.cloudinary.com/dzkollux2/image/upload/v1662959780/MUI_rhh6n6.png" alt="MaterialUI" title="MaterialUI">
               </a>
-              <a href="#">
-  <img height="50" src="https://res.cloudinary.com/dzkollux2/image/upload/v1662959209/Firebase_dojdnv.svg" alt="Firebase" title="Firebase">
-                </a>
                 <a href="#">
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
                   </a>
                   <a href="#">
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/182618272-390ab138-7b29-44a0-85a2-62633957d815.png" alt="VisualStudio" title="VisualStudio" />
                     </a>
-                    <a href="#">
-  <img height="50" src="https://res.cloudinary.com/dzkollux2/image/upload/v1662959207/Figma_p09cgi.svg" alt="Figma" title="Figma">
-                  </a>    
+
   
 </div>
 
