@@ -5,7 +5,35 @@
 </a>
 <a href='https://x.com/ELIANDEV55'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <br>
-I am a person with great intellectual curiosity and responsibility, committed to effectively contributing to projects. I strive to ensure an excellent user experience, design robust architectures, and maintain high quality in the code. As a self-learner, I adapt quickly to new technologies and methodologies, continually improving my skills
+
+👨‍💻 Full Stack Developer
+
+I am Joan Elian Villamarín, a software analysis and development technologist with 1 year of experience in creating robust and scalable solutions. My primary focus is on backend and frontend development using modern technologies such as FastAPI, NestJS, Angular, PostgreSQL, and Docker.
+
+💻 Hard Skills:
+
+Programming Languages: Python, JavaScript, TypeScript, PhP
+Frameworks: Next, Angular, Nest, FastApi, Django Rest
+Databases: PostgreSQL, MySQL
+DevOps: Docker, Docker Compose, Git
+APIs: External service integration through APIs
+Testing: Pytest, Unit testing, controlled error validation
+Additional Tools: SQL, Pydantic, React, virtual environment management (venv), environment variable configuration with dotenv
+
+🤝 Soft Skills:
+
+Adaptability: I quickly adapt to new technologies and methodologies, as demonstrated by implementing critical features under tight deadlines.
+
+Teamwork: I effectively collaborate with multidisciplinary teams to achieve common goals.
+Problem-solving: I tackle technical challenges with creativity and efficient solutions, always focusing on quality.
+
+Communication: I can clearly and effectively communicate technical ideas and solutions to various audiences.
+
+Result-oriented: I strive to deliver high-quality products, ensuring they meet the client’s objectives.
+
+I’m always looking to learn and improve my skills, and I’m currently deepening my knowledge in Angular and other frontend and backend technologies like FastAPI. I'm excited to contribute to projects that drive technological innovation and allow me to continue growing as a developer.
+
+I'm open to new opportunities! 🚀
 
 
 <br>
