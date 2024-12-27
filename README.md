@@ -1,4 +1,4 @@
-![Banner](https://res.cloudinary.com/dw6vdykba/image/upload/v1724639030/ig5o3qvykm8htkfoyywc.png)
+![Banner](https://res.cloudinary.com/dw6vdykba/image/upload/v1735340606/oqs8lqppuc4cclypscwc.png)
 ## Hey 👋, I'm Elian!
 <a href='https://www.linkedin.com/in/joan-elian-villamarin-urrutia-a4a7191b7/?locale=en_US'>
 <img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/>
